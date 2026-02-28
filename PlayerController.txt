@@ -1,1 +1,4 @@
 print("hola mundo")
+print("como estas esta es la version 2")
+speed 12
+velocidad salto 5
